@@ -35,7 +35,7 @@ console.log(toSellTeapot)
 
 
 // Invoke the component function that renders the HTML list
-const parentHTMLElement = document.querySelector(".PotteryList")
+const parentHTMLElement = document.querySelector(".potteryList")
 parentHTMLElement.innerHTML = PotteryList()
 
 
